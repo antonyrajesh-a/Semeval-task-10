@@ -16,10 +16,10 @@ Given a dialogue, EFR aims to identify the trigger utterance(s) for an emotion-f
 
 ## Directory Structure
 
-- `Subtask1/code/`: Contains the Colab notebook for ERC model training.
-- `Subtask1/data/`: associated dataset text files for training the mBERT model for ERC.
+- `Subtask1/code/`: Contains the Colab notebook for ERC mBERT model training.
+- `Subtask1/data/`: Contains associated dataset text files for training the mBERT model for ERC.
 - `Subtask2/code/`: Contains the Colab notebook for EFR model training.
-- `Subtask1/data/`:associated dataset JSON files for training the mBERT model for EFR.
+- `Subtask1/data/`: Contains associated dataset JSON files for training the classifiers for EFR.
 
 ## Instructions
 
